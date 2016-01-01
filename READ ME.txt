@@ -1,0 +1,10 @@
+What the buttons mean:
+Pop - Rectangular marquee for population
+Erad - Rectangular marquee for eradication
+Free - Freestyle drawing for population
+Clr - Clear screen 
+R-P - R-Pentomino (PATTERN)
+Gun - Glider Gun (PATTERN)
+Plsr - Pulsar (PATTERN)
+Die - Die Hard (PATTERN)
+Pffr - Puffers (PATTERN)
